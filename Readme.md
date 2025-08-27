@@ -28,7 +28,7 @@
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishav5490&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Rishav5490&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="200px"/> -->
-  <img src="https://streak-stats.demolab.com/?user=Rishav5490&theme=radical" alt="GitHub Streak" height="200px"/>
+<!--   <img src="https://streak-stats.demolab.com/?user=Rishav5490&theme=radical" alt="GitHub Streak" height="200px"/> -->
 </div>
 
 <div align="center">
