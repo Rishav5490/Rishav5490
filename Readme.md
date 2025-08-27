@@ -37,7 +37,10 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishav5490&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width:45%; min-width: 200px; height: auto;" />
 
 <br />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav5490&theme=radical" alt="GitHub Streak" style="width: 50%; min-width: 250px; height: auto;" />
+   <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Rishav5490&theme=radical" alt="GitHub Streak" />
+</a>
+
 
 
 
