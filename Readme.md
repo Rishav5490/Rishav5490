@@ -17,7 +17,7 @@
 <h2 align="center">⚒ Languages, Frameworks & Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,ts,nodejs,py,express,mongodb,postgres,redis,prisma,html,css,tailwind,bootstrap,mui,vite,fastapi,vscode,postman,appwrite,github,docker,git,cpp,c,figma,linux,bun,pnpm" alt="Skills"/><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,ts,nodejs,express,mongodb,postgres,redis,prisma,html,css,tailwind,bootstrap,mui,vite,fastapi,vscode,postman,appwrite,github,docker,git,cpp,c,figma,linux,bun,pnpm" alt="Skills"/><br>
 
 </div>
 
@@ -25,11 +25,11 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishav5490&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Rishav5490&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="200px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav5490&theme=radical" alt="GitHub Streak" height="200px"/>
-</div> -->
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishav5490&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="width:  50%; min-width: 250px; height: auto;" />
@@ -51,10 +51,10 @@
 
 <h2 align="center">✨ Connect with me ✨</h2>
 <div align="center">
-    <a href="https://www.linkedin.com/in/virenderprasad/" target="_blank">
+    <a href="[https://www.linkedin.com/in/rishav-kumar-0ba203191/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
     </a>
-    <a href="mailto:rk@gmail.com">
+    <a href="mailto:rishavrajput2018@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
     </a>
 </div>
