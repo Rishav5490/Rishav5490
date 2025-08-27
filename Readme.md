@@ -33,17 +33,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishav5490&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="width:  50%; min-width: 250px; height: auto;" />
- 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishav5490&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width:45%; min-width: 200px; height: auto;" />
-
-<br />
    <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Rishav5490&theme=radical" alt="GitHub Streak" />
 </a>
-
-
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishav5490&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width:45%; min-width: 200px; height: auto;" />
 </div>
 
 
