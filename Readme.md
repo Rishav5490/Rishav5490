@@ -1,9 +1,9 @@
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=developershakya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=Rishav5490&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+folks!+👋;+I'm+Deepak+Shakya!;+Welcome+to+my+GitHub!"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+folks!+👋;+I'm+Rishav+Kumar!;+Welcome+to+my+GitHub!"/>
 </h1>
 
 <p align="center">
@@ -26,18 +26,18 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developershakya&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=developershakya&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="200px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developershakya&theme=radical" alt="GitHub Streak" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishav5490&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishav5490&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav5490&theme=radical" alt="GitHub Streak" height="200px"/>
 </div> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developershakya&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="width:  50%; min-width: 250px; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishav5490&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="width:  50%; min-width: 250px; height: auto;" />
  
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developershakya&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width:45%; min-width: 200px; height: auto;" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishav5490&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width:45%; min-width: 200px; height: auto;" />
 
 <br />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=developershakya&theme=radical" alt="GitHub Streak" style="width: 50%; min-width: 250px; height: auto;" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav5490&theme=radical" alt="GitHub Streak" style="width: 50%; min-width: 250px; height: auto;" />
 
 
 
@@ -72,7 +72,7 @@
 
 
 <!--
-*developershakya/developershakya* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*Rishav5490/Rishav5490* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
